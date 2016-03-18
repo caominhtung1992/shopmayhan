@@ -573,7 +573,7 @@ h6, h6 a {
   min-height: 100%;
   margin: 0 auto;
   position: relative;
-  overflow-x: hidden;
+  overflow-x: inherit;
 }
 
 #main-body {
@@ -2947,6 +2947,10 @@ button {
   outline: none;
 }
 
+#wrapper {
+  overflow-x: inherit;
+}
+
 .top-head {
   background: #fff;
   margin-top: 10px;
@@ -2983,6 +2987,7 @@ button {
   line-height: 47px;
   font-weight: bold;
   margin-left: 5px;
+  margin-bottom: 10px;
 }
 
 .mid-head .menu-top ul li {
@@ -3005,6 +3010,43 @@ button {
   margin-top: 10px;
   margin: 0px auto;
   height: auto;
+}
+
+.new-product {
+  width: 100%;
+  height: auto;
+  float: left;
+  background: #ececec;
+  margin-bottom: 20px;
+}
+
+.new-pro-title {
+  width: 100%;
+  height: 39px;
+  float: left;
+  background: #0077ab;
+}
+
+.new-pro-title p, .new-pro-title #main-body ul, #main-body .new-pro-title ul, .new-pro-title #main-body ol, #main-body .new-pro-title ol, .new-pro-title #main-body table, #main-body .new-pro-title table {
+  background-image: url(../images/bg-title-content.jpg);
+  background-repeat: no-repeat;
+  height: 39px;
+  line-height: 39px;
+  color: #fff;
+  padding-left: 20px;
+  text-transform: uppercase;
+  float: left;
+  width: 88%;
+}
+
+.new-pro-title a {
+  float: right;
+  height: 39px;
+  line-height: 39px;
+  color: #fff;
+  padding-right: 10px;
+  text-decoration: none;
+  width: 12%;
 }
 
 .title-pro-content {

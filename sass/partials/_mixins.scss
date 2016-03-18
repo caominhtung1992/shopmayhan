@@ -94,7 +94,7 @@ h4, h4 a { font-size: 14px; line-height: 20px; }
 h5, h5 a { font-size: 14px; line-height: 20px; text-transform: none; }
 h6, h6 a { font-size: 12px; line-height: 20px; text-transform: none; }
 
-#wrapper { width: 100%; min-height: 100%; margin: 0 auto; position: relative; overflow-x: hidden; }
+#wrapper { width: 100%; min-height: 100%; margin: 0 auto; position: relative; overflow-x: inherit; }
 
 #main-body { padding-bottom: 210px; }
 
