@@ -1,0 +1,58 @@
+// IMPORTS
+$grid-columns:   24;
+$grid-gutter:    5px;
+$grid-max-width: 1024px;
+
+@import "partials/grid";
+@import "partials/reset";
+@import "partials/mixins";
+
+@import "vendor/vendors";
+@import "_media-queries";
+
+//Style
+
+input[type="text"],
+input[type="password"],
+textarea,
+button {
+    -webkit-appearance:none;
+    outline: none;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="date"],
+input[type="datalist"],
+input[type="time"] {
+	
+}
+
+@import "pages/home";
+
+@include max-screen(1024px) {
+    body {
+        min-width: 720px;
+    }
+    
+}
+
+@include max-screen(767px) {
+    body {
+        min-width: 320px;
+    }
+}
+
+@include max-screen(640px) {
+}
+
+@include max-screen(480px) {
+}
+
+@include max-screen(320px) {
+}
