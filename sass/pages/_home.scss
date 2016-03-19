@@ -63,6 +63,15 @@
 	float:left;
 	background: #ececec;
 	margin-bottom:20px;
+	.new-pro-main{
+		width: 1064px;
+		margin:0px auto;
+		background:#fff;
+		.slider-product{
+			width:100%;
+			height:auto;
+		}
+	}
 }
 .new-pro-title{
 	width:100%;
@@ -246,10 +255,11 @@
     		}
     	}
     	.iteam-main-pro{
-    		width: 33.33%;
+    		width: 197px;
     		float: left;
     		height: auto;
     		margin: 20px 0px;
+    		border-right: 1px solid #ccc;
     		.iteam-pro-img{
     			width: 100%;
     			float: left;
@@ -287,9 +297,12 @@
     			}
     		}
     		.iteam-pro-info{
-    			width: 100%;
-    			height: 70px;
-    			float: left;
+			    width: 90%;
+			    height: 70px;
+			    float: left;
+			    border-top: 1px solid #eeeeee;
+			    padding-top: 10px;
+			    margin-left: 10px;
     			a{
     				color: #2682b1;
     				margin-left: 10px;
@@ -311,6 +324,17 @@
     		}
     	}
     }
+}
+.grouptop-main-pro{
+	width:100%;
+	height:auto;
+	float:left;
+}
+.grouptop-main-pro01{
+	width:100%;
+	height:auto;
+	float:left;
+	border-top:1px solid #f2f2f2;
 }
 .right-merit{
 	width: 187px;
