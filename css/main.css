@@ -3982,6 +3982,77 @@ button {
   text-decoration: none;
 }
 
+.de-product-l .de-left-info .de-info-title p, .de-product-l .de-left-info .de-info-title #main-body ul, #main-body .de-product-l .de-left-info .de-info-title ul, .de-product-l .de-left-info .de-info-title #main-body ol, #main-body .de-product-l .de-left-info .de-info-title ol, .de-product-l .de-left-info .de-info-title #main-body table, #main-body .de-product-l .de-left-info .de-info-title table {
+  font-size: 22px;
+  font-family: Arial;
+  color: #000000;
+}
+
+.de-product-l .de-left-info .de-info-price p, .de-product-l .de-left-info .de-info-price #main-body ul, #main-body .de-product-l .de-left-info .de-info-price ul, .de-product-l .de-left-info .de-info-price #main-body ol, #main-body .de-product-l .de-left-info .de-info-price ol, .de-product-l .de-left-info .de-info-price #main-body table, #main-body .de-product-l .de-left-info .de-info-price table {
+  color: #f00;
+  font-size: 14px;
+  font-family: Arial;
+}
+
+.de-product-l .de-left-info .de-info-status {
+  text-align: right;
+}
+
+.de-product-l .de-left-info .de-info-status span {
+  font-size: 14px;
+  font-family: Arial;
+}
+
+.de-product-l .de-left-info .de-info-status .status-color {
+  color: #39914a;
+}
+
+.de-product-l .de-left-info .de-info-guarantee {
+  margin-bottom: -20px;
+}
+
+.de-product-l .de-left-info .de-info-guarantee p, .de-product-l .de-left-info .de-info-guarantee #main-body ul, #main-body .de-product-l .de-left-info .de-info-guarantee ul, .de-product-l .de-left-info .de-info-guarantee #main-body ol, #main-body .de-product-l .de-left-info .de-info-guarantee ol, .de-product-l .de-left-info .de-info-guarantee #main-body table, #main-body .de-product-l .de-left-info .de-info-guarantee table {
+  font-size: 14px;
+  font-family: Arial;
+}
+
+.de-product-l .de-left-info .de-info-producer p, .de-product-l .de-left-info .de-info-producer #main-body ul, #main-body .de-product-l .de-left-info .de-info-producer ul, .de-product-l .de-left-info .de-info-producer #main-body ol, #main-body .de-product-l .de-left-info .de-info-producer ol, .de-product-l .de-left-info .de-info-producer #main-body table, #main-body .de-product-l .de-left-info .de-info-producer table {
+  font-size: 14px;
+  font-family: Arial;
+}
+
+.de-product-l .de-left-info .de-info-contact p, .de-product-l .de-left-info .de-info-contact #main-body ul, #main-body .de-product-l .de-left-info .de-info-contact ul, .de-product-l .de-left-info .de-info-contact #main-body ol, #main-body .de-product-l .de-left-info .de-info-contact ol, .de-product-l .de-left-info .de-info-contact #main-body table, #main-body .de-product-l .de-left-info .de-info-contact table {
+  font-size: 14px;
+  font-family: Arial;
+  margin-bottom: 0px;
+}
+
+.de-product-l .de-left-info .de-info-contact span {
+  font-size: 14px;
+  font-family: Arial;
+  color: #f00;
+}
+
+.de-product-l .de-left-info .de-info-email p, .de-product-l .de-left-info .de-info-email #main-body ul, #main-body .de-product-l .de-left-info .de-info-email ul, .de-product-l .de-left-info .de-info-email #main-body ol, #main-body .de-product-l .de-left-info .de-info-email ol, .de-product-l .de-left-info .de-info-email #main-body table, #main-body .de-product-l .de-left-info .de-info-email table {
+  font-size: 14px;
+  font-family: Arial;
+  margin-bottom: 0px;
+}
+
+.de-product-l .de-left-info .de-info-email01 p, .de-product-l .de-left-info .de-info-email01 #main-body ul, #main-body .de-product-l .de-left-info .de-info-email01 ul, .de-product-l .de-left-info .de-info-email01 #main-body ol, #main-body .de-product-l .de-left-info .de-info-email01 ol, .de-product-l .de-left-info .de-info-email01 #main-body table, #main-body .de-product-l .de-left-info .de-info-email01 table {
+  font-size: 14px;
+  font-family: Arial;
+  margin-bottom: 0px;
+}
+
+.de-product-l .de-left-info .de-email-color p, .de-product-l .de-left-info .de-email-color #main-body ul, #main-body .de-product-l .de-left-info .de-email-color ul, .de-product-l .de-left-info .de-email-color #main-body ol, #main-body .de-product-l .de-left-info .de-email-color ol, .de-product-l .de-left-info .de-email-color #main-body table, #main-body .de-product-l .de-left-info .de-email-color table {
+  color: #1c7598;
+}
+
+.de-product-l .de-left-info .de-info-cart {
+  margin-top: 80px;
+}
+
 .de-product-r {
   width: 190px;
   height: auto;

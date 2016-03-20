@@ -898,6 +898,75 @@
 				text-decoration:none;
 			}
 		}
+		.de-info-title{
+			p{
+				font-size:22px;
+				font-family:Arial;
+				color:#000000;
+			}
+		}
+		.de-info-price{
+			p{
+				color:#f00;
+				font-size:14px;
+				font-family:Arial;
+			}
+		}
+		.de-info-status{
+			text-align:right;
+			span{
+				font-size:14px;
+				font-family:Arial;
+			}
+			.status-color{
+				color:#39914a;
+			}
+		}
+		.de-info-guarantee{
+			margin-bottom:-20px;
+			p{
+				font-size:14px;
+				font-family:Arial;
+			}
+		}
+		.de-info-producer{
+			p{
+				font-size:14px;
+				font-family:Arial;
+			}
+		}
+		.de-info-contact{
+			p{
+				font-size:14px;
+				font-family:Arial;
+				margin-bottom: 0px;
+			}
+			span{
+				font-size:14px;
+				font-family:Arial;
+				color:#f00;
+			}
+		}
+		.de-info-email{
+			p{
+				font-size:14px;
+				font-family:Arial;
+				margin-bottom: 0px;
+			}
+		}
+		.de-info-email01{
+			p{
+				font-size:14px;
+				font-family:Arial;
+				margin-bottom: 0px;
+			}
+		}
+		.de-email-color p{
+			color:#1c7598;
+		}
+		.de-info-cart{
+			margin-top:80px;
+		}
 	}
 }
 .de-product-r{
